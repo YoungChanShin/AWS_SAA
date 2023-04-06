@@ -280,7 +280,7 @@ TCP, UDP, TLS 요청을 로드밸런싱해야 하는 경우 사용. 고정 IP �
 
 
 
-![lifecycle_hooks](.\lifecycle_hooks.png)
+![lifecycle_hooks](lifecycle_hooks.png)
 
 
 
