@@ -449,7 +449,7 @@ EFS 와 같은 서비스. 해당 파일(데이터)에 접근하기 위해 데이
 
 객체(파일)을 덮어쓰기나 버전관리가 가능하다. MFA를 조합하면 삭제방지도 가능하다. 버전관리 기능 활성화가 필요하다. 
 
-![image-20230405202001857](.\image-20230405202001857.png)
+![image-20230405202001857](image-20230405202001857.png)
 
 
 
@@ -606,4 +606,4 @@ iSCSI 연결을 사용해 온프레미스 애플리케이션에 블록 스토리
 • AWS DataSync : NFS 서버, SMB 파일 공유, 자체 관리형 객체 스토리지, AWS Snowcone, Amazon S3, Amazon EFS 및 Amazon FSx for Windows File Server 간에 데이터 전송을 가속화 및 자동화하려는 경우
 • AWS Transfer Family : SFTP, FTPS 및 FTP 프로토콜을 사용하여 AWS S3 및 EFS와 파일 전송을 하려는 경우 사용
 
-![image-20230406201841079](.\image-20230406201841079.png)
+![image-20230406201841079](image-20230406201841079.png)
